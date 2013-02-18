@@ -1,4 +1,4 @@
-SingleGlobalLock
+SingleGlobalInstance
 ================
 
 Explanation
